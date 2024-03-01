@@ -1,0 +1,16 @@
+# Node.js files
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Misc
+.DS_Store
+.env
+.cache

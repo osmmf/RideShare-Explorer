@@ -3,8 +3,8 @@
 Welcome to the RideShare-Explorer repository! Our app is designed to navigate the future of shared mobility by providing users with a comprehensive platform to explore and utilize various ridesharing services.
 
 ## Team Members
-- Oussama El Meftahi (Backend Developer)
-- El Mehdi Bensouda (Full-stack Developer)
+- Bensouda El Mehdi - [Github](https://github.com/ElMehdi02) / [Twitter](https://twitter.com/el_bensouda)  
+- Oussama El Meftahi - [Github](https://github.com/osmmf) / [Twitter](https://twitter.com/osm_mf?s=21&t=t6R6FYFk_GNlVk904R-n3g)
 
 ## About the App
 RideShare-Explorer is a project aimed at revolutionizing the way people commute and travel using shared mobility services. With the increasing popularity of ridesharing, our app offers a streamlined interface for users to discover, compare, and book rides across different providers.

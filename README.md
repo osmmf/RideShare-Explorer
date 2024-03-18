@@ -2,6 +2,7 @@
 
 Welcome to the **RideShare-Explorer** repository! Our app aims to revolutionize shared mobility by providing users with a comprehensive platform to explore and utilize various ridesharing services.
 
+<img width="801" alt="icon project" src="https://github.com/osmmf/RideShare-Explorer/assets/132353765/d31ecb98-ea15-4540-bb74-1361f66f0aff">
 
 ## About the App
 

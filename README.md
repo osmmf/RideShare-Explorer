@@ -76,6 +76,5 @@ To run the **RideShare-Explorer** app locally, follow these steps:
 
 ## Feedback and Support
 If you have any questions, feedback, or issues regarding RideShare-Explorer, please feel free to [contact us](mailto:contact@example.com). We appreciate your support and contribution to the project!
-<img width="80px" alt="contact us" src="https://github.com/osmmf/RideShare-Explorer/assets/132353765/0b766db2-e23e-4e6d-8a43-935dc7f49549">
 
 Thank you for exploring the future of shared mobility with RideShare-Explorer! 🚗🌟

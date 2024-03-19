@@ -1,8 +1,9 @@
 # RideShare-Explorer
 <img width="801" alt="icon project" src="https://github.com/osmmf/RideShare-Explorer/assets/132353765/d31ecb98-ea15-4540-bb74-1361f66f0aff">
 
-**Welcome to the **RideShare-Explorer**.
-In the big city, my friend and I were constantly frustrated by traffic jams. Getting to school or appointments was always a struggle. One day, while stuck in traffic, we had a lightbulb moment: why not create an app to help people navigate the city more efficiently? We wanted to make commuting faster and easier for everyone. Plus, as software engineering students, we could use our skills to make it happen. And so, "RideShare Explore" was born out of our desire to solve a common problem and make city exploration more enjoyable for all.**
+**Welcome to the **RideShare-Explorer**.**
+
+**In the bustling city, my friend and I were fed up with endless traffic delays. Whether heading to school or appointments, navigating the streets was always a hassle. Then, one day while stuck in a traffic jam, inspiration struck: why not develop an app to streamline city travel? We envisioned a platform that not only made commuting quicker and simpler but also allowed people to share rides, like a taxi service. As software engineering students, we knew we could leverage our skills to create something special. And that's how "RideShare Explore" came to life, born from our desire to ease urban travel and enhance city exploration for everyone.**
 
 ![_ (2)](https://github.com/osmmf/RideShare-Explorer/assets/132353765/ac735eae-ce44-464b-b9a5-2c3b7b70c1ee)
 

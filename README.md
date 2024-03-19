@@ -9,6 +9,9 @@ In the big city, my friend and I were constantly frustrated by traffic jams. Get
 
 **RideShare-Explorer** is a project designed to enhance the way people commute and travel using shared mobility services. As ridesharing becomes increasingly popular, our app offers a streamlined interface for users to discover, compare, and book rides across different providers.
 
+![_](https://github.com/osmmf/RideShare-Explorer/assets/132353765/8dd4e22f-15ae-4ecd-9b58-4e5a7b83ed9e)
+
+
 ## Features
 
 1. **Search and Explore:**
@@ -26,8 +29,7 @@ In the big city, my friend and I were constantly frustrated by traffic jams. Get
 5. **Real-time Updates:**
    - Stay informed with real-time updates on ride availability, traffic conditions, and more.
 
-![_](https://github.com/osmmf/RideShare-Explorer/assets/132353765/8dd4e22f-15ae-4ecd-9b58-4e5a7b83ed9e)
-
+![_ (1)](https://github.com/osmmf/RideShare-Explorer/assets/132353765/527046b5-297d-484d-af0d-9b59e838e403)
 
 ## Technologies Used
 

@@ -10,7 +10,7 @@
 
 ## About the App
 
-**RideShare-Explorer** is a project designed to enhance the way people commute and travel using shared mobility services. As ridesharing becomes increasingly popular, our app offers a streamlined interface for users to discover, compare, and book rides across different providers.
+****RideShare-Explorer** is a project designed to enhance the way people commute and travel using shared mobility services. As ridesharing becomes increasingly popular, our app offers a streamlined interface for users to discover, compare, and book rides across different providers.**
 
 ![_](https://github.com/osmmf/RideShare-Explorer/assets/132353765/8dd4e22f-15ae-4ecd-9b58-4e5a7b83ed9e)
 

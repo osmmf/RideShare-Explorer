@@ -4,6 +4,8 @@
 **Welcome to the **RideShare-Explorer**.
 In the big city, my friend and I were constantly frustrated by traffic jams. Getting to school or appointments was always a struggle. One day, while stuck in traffic, we had a lightbulb moment: why not create an app to help people navigate the city more efficiently? We wanted to make commuting faster and easier for everyone. Plus, as software engineering students, we could use our skills to make it happen. And so, "RideShare Explore" was born out of our desire to solve a common problem and make city exploration more enjoyable for all.**
 
+![_ (2)](https://github.com/osmmf/RideShare-Explorer/assets/132353765/ac735eae-ce44-464b-b9a5-2c3b7b70c1ee)
+
 
 ## About the App
 
@@ -63,10 +65,12 @@ To run the **RideShare-Explorer** app locally, follow these steps:
 - **Bensouda El Mehdi**
   - [Github](https://github.com/ElMehdi02)
   - [Twitter](https://twitter.com/el_bensouda)
+  - [LinkedIn](https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/)
 
 - **Oussama El Meftahi**
   - [Github](https://github.com/osmmf)
   - [Twitter](https://twitter.com/osm_mf?s=21&t=t6R6FYFk_GNlVk904R-n3g)
+  - [LinkedIn](https://www.linkedin.com/in/oussama-el-meftahi-501991278/)
 
 ---
 

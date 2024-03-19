@@ -26,6 +26,9 @@ In the big city, my friend and I were constantly frustrated by traffic jams. Get
 5. **Real-time Updates:**
    - Stay informed with real-time updates on ride availability, traffic conditions, and more.
 
+![_](https://github.com/osmmf/RideShare-Explorer/assets/132353765/8dd4e22f-15ae-4ecd-9b58-4e5a7b83ed9e)
+
+
 ## Technologies Used
 
 - **Backend Development:**

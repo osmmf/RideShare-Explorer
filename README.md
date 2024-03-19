@@ -1,9 +1,9 @@
 # RideShare-Explorer
-
-Welcome to the **RideShare-Explorer**.
-In the big city, my friend and I were constantly frustrated by traffic jams. Getting to school or appointments was always a struggle. One day, while stuck in traffic, we had a lightbulb moment: why not create an app to help people navigate the city more efficiently? We wanted to make commuting faster and easier for everyone. Plus, as software engineering students, we could use our skills to make it happen. And so, "RideShare Explore" was born out of our desire to solve a common problem and make city exploration more enjoyable for all.
-
 <img width="801" alt="icon project" src="https://github.com/osmmf/RideShare-Explorer/assets/132353765/d31ecb98-ea15-4540-bb74-1361f66f0aff">
+
+**Welcome to the **RideShare-Explorer**.
+In the big city, my friend and I were constantly frustrated by traffic jams. Getting to school or appointments was always a struggle. One day, while stuck in traffic, we had a lightbulb moment: why not create an app to help people navigate the city more efficiently? We wanted to make commuting faster and easier for everyone. Plus, as software engineering students, we could use our skills to make it happen. And so, "RideShare Explore" was born out of our desire to solve a common problem and make city exploration more enjoyable for all.**
+
 
 ## About the App
 
@@ -29,7 +29,7 @@ In the big city, my friend and I were constantly frustrated by traffic jams. Get
 5. **Real-time Updates:**
    - Stay informed with real-time updates on ride availability, traffic conditions, and more.
 
-![_ (1)](https://github.com/osmmf/RideShare-Explorer/assets/132353765/527046b5-297d-484d-af0d-9b59e838e403)
+![Simple minimal characters](https://github.com/osmmf/RideShare-Explorer/assets/132353765/c2819c60-ea43-4fe1-b7d3-f1b0dfcc6f63)
 
 ## Technologies Used
 
